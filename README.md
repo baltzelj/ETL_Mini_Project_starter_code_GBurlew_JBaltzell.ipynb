@@ -13,6 +13,7 @@ These are the resources that were used for the final SQL Database. They were cre
 4. [Subcategory CSV](Resources/subcategory.csv)
 
 [Python File](ETL_Mini_Project_Starter_Code.ipynb)
+
 [Crowdfunding SQL Schema](crowdfunding_db_schema.sql)
 
 ## Features
