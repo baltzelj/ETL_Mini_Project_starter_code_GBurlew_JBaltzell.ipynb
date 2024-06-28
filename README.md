@@ -12,6 +12,8 @@ These are the resources that were used for the final SQL Database. They were cre
 3. [Contacts CSV](Resources/contacts.csv)
 4. [Subcategory CSV](Resources/subcategory.csv)
 
+### Working Files
+These are the files that contain our work.
 [Python File](ETL_Mini_Project_Starter_Code.ipynb)
 
 [Crowdfunding SQL Schema](crowdfunding_db_schema.sql)
