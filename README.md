@@ -14,6 +14,7 @@ These are the resources that were used for the final SQL Database. They were cre
 
 ### Working Files
 These are the files that contain our work.
+
 [Python File](ETL_Mini_Project_Starter_Code.ipynb)
 
 [Crowdfunding SQL Schema](crowdfunding_db_schema.sql)
