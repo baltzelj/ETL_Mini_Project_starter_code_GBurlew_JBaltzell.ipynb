@@ -12,6 +12,9 @@ These are the resources that were used for the final SQL Database. They were cre
 3. [Contacts CSV](Resources/contacts.csv)
 4. [Subcategory CSV](Resources/subcategory.csv)
 
+### Screenshots Folder
+In this folder, we show an example of what each table looks like when selected in the SQL Database.
+
 ### Working Files
 These are the files that contain our work.
 
